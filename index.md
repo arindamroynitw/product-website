@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Arindam Roy
+
+This is where I will host my resume on Github. 
 
 You can use the [editor on GitHub](https://github.com/arindamroynitw/product-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
